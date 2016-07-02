@@ -1,0 +1,7 @@
+{
+    "name": "milf",
+    "description": "this is very minimalistic LISP 1 implementation. it's inspired by Scheme.",
+    "license": "WTFPL",
+    "targetType": "executable",
+    "sourceFiles": ["source/app.d", "source/milf.d"]
+}

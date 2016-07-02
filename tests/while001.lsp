@@ -1,0 +1,5 @@
+(define cnt 5)
+(while (> cnt 0)
+  (writeln cnt)
+  (if (= cnt 2) (break 42))
+  (set! cnt (- cnt 1)))
